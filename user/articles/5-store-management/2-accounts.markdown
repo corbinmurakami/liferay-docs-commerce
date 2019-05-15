@@ -1,4 +1,4 @@
-# Accounts
+# Accounts Test
 
 Liferay Commerce stores information about customers in an account. Accounts
 primarily store shipping and billing addresses and payement information, but
